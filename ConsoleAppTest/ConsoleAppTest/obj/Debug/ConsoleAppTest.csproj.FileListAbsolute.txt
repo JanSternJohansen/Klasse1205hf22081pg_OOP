@@ -1,0 +1,8 @@
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.SuggestedBindingRedirects.cache
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
