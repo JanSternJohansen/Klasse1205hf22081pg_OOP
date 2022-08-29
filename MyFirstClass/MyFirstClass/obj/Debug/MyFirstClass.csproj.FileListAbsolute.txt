@@ -1,0 +1,8 @@
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.exe.config
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.exe
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.pdb
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.csproj.AssemblyReference.cache
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.csproj.SuggestedBindingRedirects.cache
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.csproj.CoreCompileInputs.cache
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.exe
+C:\AJan\Klasser\2022.3.kvt. 1205hf22081pg\OOP\Klasse1205hf22081pg_OOP\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.pdb
